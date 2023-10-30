@@ -5,13 +5,13 @@
 
 - 🌐 I'm studying in the [Open Web Academy](http://owa.uz)
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, NodeJS, Express, API/Rest-API Handlebars, Git/Github,**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, NodeJS, Express, MongoDB, API/Rest-API Handlebars, Git/Github,**
 
 - 👨‍💻 All of my projects are available at [http://yuldoshev.uz](http://yuldoshev.uz)
 
 - 📝 I regularly write articles on [http://t.me/yuldoshev_blog](http://t.me/yuldoshev_blog)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, Express, Template engine (handlebars/ejs)**
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, Express, MongoDB Template engine (handlebars/ejs)**
 
 - 📫 How to reach me **olmasjonyuldoshev@gmail.com**
 
