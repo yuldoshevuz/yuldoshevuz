@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuldoshevuz&label=Profile%20views&color=0e75b6&style=flat" alt="yuldoshevuz" /> </p>
 
-- 🌐 I'm studying in the [Open Web Academy](http://owa.uz)
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, TypeScript, NodeJS, ExpressJS,  Express Handlebars, NestJS, MongoDB, PostgreSQL, Sequelize, API /Rest-API, Git/Github, Nginx, AWS**
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, NodeJS, Express, MongoDB, API/Rest-API Handlebars, Git/Github,**
-
-- 👨‍💻 All of my projects are available at [http://yuldoshev.uz](http://yuldoshev.uz)
+- 👨‍💻 All of my projects are available at [https://t.me/yuldoshev_blog](https://t.me/yuldoshev_blog)
 
 - 📝 I regularly write articles on [http://t.me/yuldoshev_blog](http://t.me/yuldoshev_blog)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, Express, MongoDB Template engine (handlebars/ejs)**
+- 💬 Ask me about **JavaScript, NodeJS, Express, MongoDB and others**
 
-- 📫 How to reach me **olmasjonyuldoshev@gmail.com**
+- 📫 How to reach me **mukhammadaliweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
