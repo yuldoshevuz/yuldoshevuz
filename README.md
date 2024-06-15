@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuldoshevuz&label=Profile%20views&color=0e75b6&style=flat" alt="yuldoshevuz" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, TypeScript, NodeJS, ExpressJS,  Express Handlebars, NestJS, MongoDB, PostgreSQL, Sequelize, API /Rest-API, Git/Github, Nginx, AWS**
+- 🌱 I am an developer **JavaScript (ES6+), TypeScript, NodeJS, ExpressJS,  Express Handlebars, NestJS, MongoDB, PostgreSQL, Sequelize, API /Rest-API, Git/Github, Nginx, AWS, HTML, CSS, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://t.me/yuldoshev_blog](https://t.me/yuldoshev_blog)
 
