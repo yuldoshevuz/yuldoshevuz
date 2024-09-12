@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuldoshevuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="30" width="40" /></a>
-  <a href="https://t.me/yuldoshev_uz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/1200px-Telegram_alternative_logo.svg.png" alt="yuldoshev_uz" height="30" width="40" /></a>
+  <a href="https://t.me/yuldoshev_uz" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/t/84/telegram.svg" alt="yuldoshev_uz" height="30" width="40" /></a>
 <a href="https://fb.com/yuldoshevuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuldoshevuz" height="30" width="40" /></a>
 <a href="https://instagram.com/yuldoshevuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuldoshevuz" height="30" width="40" /></a>
 </p>
