@@ -21,7 +21,7 @@
   <a href="https://t.me/yuldoshev_uz" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/t/84/telegram.svg" alt="yuldoshev_uz" height="30" width="40" /></a>
 <a href="https://fb.com/yuldoshevuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuldoshevuz" height="30" width="40" /></a>
 <a href="https://instagram.com/yuldoshevuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuldoshevuz" height="30" width="40" /></a>
-</p><br>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
