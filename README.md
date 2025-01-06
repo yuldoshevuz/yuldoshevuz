@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuldoshevuz&label=Profile%20views&color=0e75b6&style=flat" alt="yuldoshevuz" /> </p>
 
-- 🔭 I’m currently working at [Dedicated Agency](http://dedicated.agency)
+- 🔭 I am open to new job offers
 
 - 👨‍💻 All of my projects are available at [http://yuldoshev.uz](http://yuldoshev.uz)
 
